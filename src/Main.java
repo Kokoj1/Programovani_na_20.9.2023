@@ -2,10 +2,6 @@
 import java.util.Scanner;
 public class Main {
 
-
-    public Main() {
-        }
-
         public static void main(String[] args) {
             Scanner cs = new Scanner(System.in);
             System.out.println("Napište jméno želvy:");
